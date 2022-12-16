@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
-/* Program 1 - roots
- *
+/*
  * Ths program will calculate the n-th root of a number. The number and the root to be computed is entered by the user.
  * The program will utilize the sliding-digit algorithm to compute the root.
  *
- * Joseph Homenick, September 2021, ECE 209
  */
 
 int main() {
